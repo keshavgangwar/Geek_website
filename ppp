@@ -1,0 +1,10 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+int i,fact=1;
+clrscr();
+printf("enter the value of i");
+scanf("%d"&i);
+printf("fact=%d"factorial);
+getch();
+}
